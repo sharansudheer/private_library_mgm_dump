@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sharan Sudheer\\Desktop\\AspireApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0021314F-4503-452C-A30B-3284DE1EB69A}|AspireApp1.AppHost\\AspireApp1.AppHost.csproj|c:\\users\\sharan sudheer\\desktop\\aspireapp1\\aspireapp1.apphost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0021314F-4503-452C-A30B-3284DE1EB69A}|AspireApp1.AppHost\\AspireApp1.AppHost.csproj|solutionrelative:aspireapp1.apphost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Sharan Sudheer\\Desktop\\AspireApp1\\AspireApp1.AppHost\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AspireApp1.AppHost\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Sharan Sudheer\\Desktop\\AspireApp1\\AspireApp1.AppHost\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AspireApp1.AppHost\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T03:21:31.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
